@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Giddd
+- 👋 Hi, I’m Gideon
 - 👀 I’m interested in collaborating with programmers like me
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently a front end developer
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me amehgideon15@gmail.com or 09058336567
 
